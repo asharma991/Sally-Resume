@@ -1,0 +1,37 @@
+.main-div {
+  padding: 50px;
+  border: 2px solid brown;
+  background: wheat;
+}
+section {
+  margin-top: 30px;
+}
+footer {
+  margin-top: 40px;
+}
+h1 {
+  color: blueviolet;
+}
+h2 {
+  color: coral;
+}
+h4 {
+  color: steelblue;
+}
+h3 {
+  color: lightsteelblue;
+}
+.edu-school {
+  color: lightslategray;
+}
+.duration {
+  font-size: smaller;
+  color: grey;
+}
+.contact {
+  color: blue;
+  font-weight: 600;
+}
+.padding-left {
+  padding-left: 10px;
+}
